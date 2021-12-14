@@ -1,2 +1,2 @@
 # portfolio
-Portfolio website using ExpressJS and Bootstrap 5
+Portfolio website using Flask and Bootstrap 5
